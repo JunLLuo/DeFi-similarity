@@ -1,7 +1,7 @@
 # DeFi-similarity
 Graph representation learning-based code to cluster and categorize DeFi protocol building blocks.
 
-Implementation of the paper *Investigating Similarities Across Decentralized Financial (DeFi) Services*, [[arxiv](https://arxiv.org/abs/2404.00034)].
+Implementation of the paper *Investigating Similarities Across Decentralized Finance (DeFi) Services*, [[arxiv](https://arxiv.org/abs/2404.00034), [journal](https://www.ledgerjournal.org/ojs/ledger/article/view/402)].
 
 # Env
 Use the `pip install -r requirements.txt` command to install all of the Python modules and packages listed.
@@ -21,11 +21,12 @@ Run `python main.py` to perferm the graph representation learning, clustering, e
 # Citation
 
 ```
-@article{luo2024investigating,
-  title={Investigating Similarities Across Decentralized Financial (DeFi) Services},
+@article{luo2025investigating,
+  title={Investigating Similarities Across Decentralized Finance (DeFi) Services},
   author={Luo, Junliang and Kitzler, Stefan and Saggese, Pietro},
-  journal={arXiv preprint arXiv:2404.00034},
-  year={2024}
+  journal={Ledger},
+  volume={10},
+  year={2025}
 }
 ```
 
